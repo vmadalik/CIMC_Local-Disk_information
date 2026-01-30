@@ -1,5 +1,5 @@
 server_name,ip,username,password
-cimcserver1,10.122.23.85,admin,C1sc0123
-cimcserver2,172.18.97.172, admin,cisco.123
-cimcserver3,172.18.97.173,admin,cisco.123
-cimcserver4,172.18.97.174,admin,cisco.123
+cimcserver1,100.122.23.85,admin,C1sc0123
+cimcserver2,1702.180.97.172, admin,cisco.123
+cimcserver3,1702.108.97.173,admin,cisco.123
+cimcserver4,1702.180.97.174,admin,cisco.123
